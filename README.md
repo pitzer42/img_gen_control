@@ -1,6 +1,6 @@
 # Image Generator Control
 
-Control an image generator model using sliders
+Controls an image generator model output using sliders
 
 ![preview](https://github.com/pitzer42/img_gen_control/blob/master/preview.png?raw=true)
 
