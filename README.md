@@ -2,7 +2,7 @@
 
 Control an image generator model using sliders
 
-![preview](https://github.com/pitzer42/img_gen_control/blob/master/preview.jpg?raw=true)
+![preview](https://github.com/pitzer42/img_gen_control/blob/master/preview.png?raw=true)
 
 ## References:
 
